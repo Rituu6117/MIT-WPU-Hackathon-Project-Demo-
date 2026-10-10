@@ -74,7 +74,7 @@ export const AIFinalRecommendationScreen = ({
             </div>
             <div>
               <h3 className="font-heading font-extrabold text-sm text-white">
-                AgriMitra AI Recommendation
+                KrishiMitra AI Recommendation
               </h3>
               <div className="text-[10px] text-emerald-300 font-medium">Optimal Farming Decision</div>
             </div>
