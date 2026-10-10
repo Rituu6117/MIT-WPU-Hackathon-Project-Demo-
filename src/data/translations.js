@@ -1,6 +1,6 @@
 export const translations = {
   en: {
-    appName: "KrishiMitra",
+    appName: "KrishiMitra AI",
     appTagline: "Smart Decisions for Better Farming",
     sihBadge: "SIH Hackathon Demo",
     navHome: "Home",
@@ -101,7 +101,7 @@ export const translations = {
     btnPrint: "Print / Save PDF",
 
     // Voice Modal
-    voiceModalTitle: "AgriMitra Voice Assistant",
+    voiceModalTitle: "KrishiMitra Voice Assistant",
     voiceModalListening: "Listening... Speak now in your language",
     voiceModalTry: "Try saying:",
     voiceCmd1: "'Show tomato prices in Pune mandi'",
@@ -114,7 +114,7 @@ export const translations = {
   },
 
   mr: {
-    appName: "ॲग्रीमित्र AI",
+    appName: "कृषीमित्र AI",
     appTagline: "उत्कृष्ट शेतीसाठी बुद्धीमान AI निर्णय",
     sihBadge: "SIH हॅकाथॉन प्रात्यक्षिक",
     navHome: "मुख्य",
@@ -215,7 +215,7 @@ export const translations = {
     btnPrint: "प्रिंट / PDF जतन करा",
 
     // Voice Modal
-    voiceModalTitle: "ॲग्रीमित्र आवाज सहाय्यक",
+    voiceModalTitle: "कृषीमित्र आवाज सहाय्यक",
     voiceModalListening: "ऐकत आहे... तुमच्या भाषेत बोला",
     voiceModalTry: "असे म्हणा:",
     voiceCmd1: "'पुणे मंडीतील टोमॅटोचा भाव दाखवा'",
@@ -228,7 +228,7 @@ export const translations = {
   },
 
   hi: {
-    appName: "एग्रीमित्र AI",
+    appName: "कृषिमित्र AI",
     appTagline: "बेहतर खेती के लिए स्मार्ट AI निर्णय",
     sihBadge: "SIH हैकाथॉन प्रदर्शन",
     navHome: "होम",
@@ -329,7 +329,7 @@ export const translations = {
     btnPrint: "प्रिंट / PDF सहेजें",
 
     // Voice Modal
-    voiceModalTitle: "एग्रीमित्र वॉयस असिस्टेंट",
+    voiceModalTitle: "कृषिमित्र वॉयस असिस्टेंट",
     voiceModalListening: "सुन रहा है... अपनी भाषा में बोलें",
     voiceModalTry: "यह बोलकर देखें:",
     voiceCmd1: "'पुणे मंडी में टमाटर का भाव बताओ'",
