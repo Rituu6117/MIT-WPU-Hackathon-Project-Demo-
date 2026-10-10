@@ -31,7 +31,7 @@ export const SmartphoneFrame = ({ children, activeLang, setActiveLang, onVoiceCl
           </div>
           <div>
             <div className="flex items-center gap-2">
-              <h1 className="font-heading font-extrabold text-xl text-white tracking-wide">AgriMitra AI</h1>
+              <h1 className="font-heading font-extrabold text-xl text-white tracking-wide">KrishiMitra AI</h1>
               <span className="px-2 py-0.5 text-xs font-semibold bg-emerald-500/20 text-emerald-400 border border-emerald-500/30 rounded-full flex items-center gap-1">
                 <ShieldCheck className="w-3 h-3" /> {sihBadgeText || 'SIH Project Demo'}
               </span>
@@ -126,7 +126,7 @@ export const SmartphoneFrame = ({ children, activeLang, setActiveLang, onVoiceCl
 
       {/* Website Footer Info */}
       <footer className="w-full max-w-6xl mx-auto py-2 text-center text-xs text-slate-500 z-10 flex flex-col sm:flex-row items-center justify-between gap-2 px-4 border-t border-slate-800/60 mt-2">
-        <span>AgriMitra AI — Empowering Indian Farmers with Artificial Intelligence</span>
+        <span>KrishiMitra AI — Empowering Indian Farmers with Artificial Intelligence</span>
         <div className="flex items-center gap-4 text-slate-400">
           <span>Dataset: 5,559+ Daily Mandi Records</span>
           <span>•</span>
