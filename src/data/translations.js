@@ -1,6 +1,6 @@
 export const translations = {
   en: {
-    appName: "AgriMitra AI",
+    appName: "KrishiMitra",
     appTagline: "Smart Decisions for Better Farming",
     sihBadge: "SIH Hackathon Demo",
     navHome: "Home",
